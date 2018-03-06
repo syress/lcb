@@ -57,4 +57,4 @@ this.keys = [
 ];
 
 ```
-*特别说明：若有列表操作项配置，需对list数据进行重新组合，添加option属性，格式详见列表操作组件[mis-option](http://baidu.com/)*
+*特别说明：若有列表操作项配置，需对list数据进行重新组合，添加option属性，格式详见列表操作组件[mis-option](https://github.com/syress/lcb/blob/master/mis-options.md)*
