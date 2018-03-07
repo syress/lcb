@@ -7,6 +7,7 @@
 1.参数说明
 >@Input()
 *   options:组件渲染数据展示（必填项）
+
 数据格式
 ```
 {
@@ -27,6 +28,7 @@
 
 >@Output()
 *   acEvtOption:点击操作向父组件传递的数据
+
 数据格式
 ```
 {event: "delete", id: 75}
