@@ -23,7 +23,7 @@
 ```
 其中，optList内容有两种类型，一种是url跳转类，一种是event操作类，操作类通过@Output()通知父组件对操作参数进行处理。
 *   itemId:操作数据的唯一标识，一般是id（非必填）
-*此组件搭配[mis-table](https://github.com/syress/lcb/edit/master/mis-table.md)时，itemId是自动带入的，无需输入*
+*此组件搭配[mis-table](https://github.com/syress/lcb/blob/master/mis-table.md)时，itemId是自动带入的，无需输入*
 
 2.代码示例
 ```
