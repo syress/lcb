@@ -1,4 +1,4 @@
-#### 分页组件 mis-pagination
+#### 分页组件 lcb-pagination
 ***
 
 #### 组件描述
