@@ -1,4 +1,4 @@
-#### 分块标题 mis-title
+#### 分块标题 lcb-title
 ***
 
 1.参数说明
@@ -7,6 +7,6 @@
 
 2.代码示例
 ```
-<mis-title [title]="title"></mis-title>
+<lcb-title [title]="title"></lcb-title>
 ```
 
