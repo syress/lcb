@@ -14,7 +14,7 @@
 
 2.代码示例
 ```
-<mis-table [list]="activityList" [tableParams]="tableParams" [keys]="keys" [multiple]="true" (checkedList)="checkedList($event)" (sort)="sort($event)"></mis-table>
+<lcb-table [list]="activityList" [tableParams]="tableParams" [keys]="keys" [multiple]="true" (checkedList)="checkedList($event)" (sort)="sort($event)"></lcb-table>
 ```
 
 3.参数格式
@@ -57,4 +57,4 @@ this.keys = [
 ];
 
 ```
-*特别说明：若有列表操作项配置，需对list数据进行重新组合，添加option属性，格式详见列表操作组件[mis-option](https://github.com/syress/lcb/blob/master/mis-options.md)*
+*特别说明：若有列表操作项配置，需对list数据进行重新组合，添加option属性，格式详见列表操作组件[lcb-option](https://github.com/syress/lcb/blob/master/lcb-options.md)*
