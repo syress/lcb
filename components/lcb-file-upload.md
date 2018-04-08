@@ -14,6 +14,6 @@
 
 2.代码示例
 ```
-  <mis-file-upload (imgs)="getImgs($event)" [multiple]="true"></mis-file-upload>
-  <mis-file-upload (imgs)="getImgs1($event)"></mis-file-upload>
+  <lcb-file-upload (imgs)="getImgs($event)" [multiple]="true"></lcb-file-upload>
+  <lcb-file-upload (imgs)="getImgs1($event)"></lcb-file-upload>
 ```
