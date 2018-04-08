@@ -1,4 +1,4 @@
-#### 图片上传 mis-file-upload
+#### 图片上传 lcb-file-upload
 ***
 
 #### 组件描述
